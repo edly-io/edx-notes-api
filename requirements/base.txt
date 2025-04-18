@@ -4,6 +4,8 @@
 #
 #    make upgrade
 #
+setuptools-scm==7.1.0
+    # via -r requirements/constraints.txt
 certifi==2021.10.8
     # via requests
 cffi==1.15.0

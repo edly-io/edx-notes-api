@@ -10,3 +10,4 @@
 
 # Stay on latest LTS release
 Django>=2.2,<3.0
+setuptools-scm>=6.0.1,<8.00
